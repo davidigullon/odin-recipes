@@ -1,1 +1,1 @@
-# odin-recipes
+A very basic and unglamorous website, to practice all the html skills I have learnt so far. I have done a similar exercise on another course, but appreciated learning git and github in tandem with the html exercise. I found this very valuable.
